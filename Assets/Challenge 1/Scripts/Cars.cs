@@ -5,6 +5,7 @@ using UnityEngine;
 public class Cars : MonoBehaviour
 {
     public float speed;
+    public string inputID;
     // Start is called before the first frame update
     void Start()
     {
